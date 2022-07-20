@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHzDasilva&hide=issues,contribs&locale=es&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHzDasilva&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHzDasilva&layout=compact&langs_count=10&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
