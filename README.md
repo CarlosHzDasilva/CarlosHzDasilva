@@ -36,6 +36,8 @@ Actualmente me encuentro perfeccionando mis habilidades en las herramientas y le
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosHzDasilva&repo=avistaloo&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosHzDasilva&repo=Don-Manolo-Shop&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :chart_with_upwards_trend: También puedes consultar las estadísticas de mi perfil (aunque el balance de lenguajes puede ser poco preciso, puesto que no tiene en cuenta los repositorios privados):
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHzDasilva&hide=issues,contribs&locale=es&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=Estadisticas+personales)
