@@ -32,20 +32,6 @@ Actualmente me encuentro perfeccionando mis habilidades en las herramientas y le
 <a href="https://github.com/CarlosHzDasilva" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" width="40" height="40"/> </a> 
 </p>
 
-### :open_file_folder: Algunos de mis proyectos son los siguientes:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosHzDasilva&repo=avistaloo&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosHzDasilva&repo=Don-Manolo-Shop&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosHzDasilva&repo=Centro-De-Masajes&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### :chart_with_upwards_trend: También puedes consultar las estadísticas de mi perfil (aunque el balance de lenguajes puede ser poco preciso, puesto que no tiene en cuenta los repositorios privados):
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHzDasilva&hide=issues,contribs&locale=es&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=Estadisticas+personales)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHzDasilva&layout=compact&langs_count=10&theme=github_dark&custom_title=Lenguajes+mas+usados)
-
 ### :email: Si quieres contactar conmigo, a continuación puedes ver mis redes:
 <p>
 <a href="https://twitter.com/carloshzdasilva" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter de Carlos Da Silva" height="30" width="40" /></a>
