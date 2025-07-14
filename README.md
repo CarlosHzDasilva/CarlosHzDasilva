@@ -1,5 +1,5 @@
-#### :wave: ¡Hola! Soy Carlos Da Silva, desarrollador de software todo terreno en continuo crecimiento, y te doy la bienvenida a mi perfil en Github. 
-#### :smile: Hi! I'm Carlos Da Silva, an all-around software developer in continuous growth, and I welcome you to my Github profile.
+#### :wave: ¡Hola! Soy Carlos Da Silva, desarrollador de software en continuo crecimiento, y te doy la bienvenida a mi perfil en Github. 
+#### :smile: Hi! I'm Carlos Da Silva, a software developer in continuous growth, and I welcome you to my Github profile.
 
 ##### :satellite: Puedes contactar conmigo por las siguientes vias / You can contact me through the following ways:
 <p>
